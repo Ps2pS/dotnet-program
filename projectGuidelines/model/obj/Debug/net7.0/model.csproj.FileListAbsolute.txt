@@ -1,0 +1,12 @@
+C:\projectGuidelines\model\bin\Debug\net7.0\model.deps.json
+C:\projectGuidelines\model\bin\Debug\net7.0\model.dll
+C:\projectGuidelines\model\bin\Debug\net7.0\model.pdb
+C:\projectGuidelines\model\obj\Debug\net7.0\model.csproj.AssemblyReference.cache
+C:\projectGuidelines\model\obj\Debug\net7.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectGuidelines\model\obj\Debug\net7.0\model.AssemblyInfoInputs.cache
+C:\projectGuidelines\model\obj\Debug\net7.0\model.AssemblyInfo.cs
+C:\projectGuidelines\model\obj\Debug\net7.0\model.csproj.CoreCompileInputs.cache
+C:\projectGuidelines\model\obj\Debug\net7.0\model.dll
+C:\projectGuidelines\model\obj\Debug\net7.0\refint\model.dll
+C:\projectGuidelines\model\obj\Debug\net7.0\model.pdb
+C:\projectGuidelines\model\obj\Debug\net7.0\ref\model.dll
